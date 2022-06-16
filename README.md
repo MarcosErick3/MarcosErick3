@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/MarcosErick3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoserick3&show_icons=true&theme=Black&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoserick3&layout=compact&langs_count=7&theme=Black"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoserick3&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoserick3&layout=compact&langs_count=7&theme=white"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
