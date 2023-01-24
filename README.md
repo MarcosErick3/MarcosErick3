@@ -1,7 +1,7 @@
 ## Oi eu sou o Marcos Eric 👋
 
 - 🔭 Hoje estudo front-end e back-end
-- 🌱 Estudando 1° Modulo Desenvolvimento de Sistemas
+- 🌱 Estudando 3° Modulo Desenvolvimento de Sistemas
 - 👯 Estou procurando estágiar na área a partir do 2° Modulo do meu curso...
 - 🤔 Estou precisando de ajuda com programadores mais experientes na área...
 - 💬 Contate-me no Email: srmarcoserick1@gmail.com ou no meu WhatsApp: (55) 11 97701-3618
