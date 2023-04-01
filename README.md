@@ -5,7 +5,6 @@
 - 👯 Estou procurando estágiar na área a partir do 2° Modulo do meu curso...
 - 🤔 Estou precisando de ajuda com programadores mais experientes na área...
 - 💬 Contate-me no Email: srmarcoserick1@gmail.com ou no meu WhatsApp: (55) 11 97701-3618
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/MarcosErick3">
