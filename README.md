@@ -1,9 +1,7 @@
-## Oi eu sou o Marcos Eric 👋
+## Oi eu sou o Marcos Eric 
+Permitam-me apresentar um pouco sobre mim, estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas (ADS)e já possui um curso técnico em Desenvolvimento de Sistemas. Tenho habilidades em Front-end, e meu domínio em HTML, CSS e JavaScript demonstra minha paixão por criar experiências visuais e interativas na web. Além disso, possuo conhecimentos em bancos de dados, trabalhando com SQL e bancos de dados NoSQL, como MySQL e SQL Server e conhecimentos nas linguagens Java e Python.
+Estou entusiasmado para conseguir minha primeira oportunidade de aplicar esses conhecimentos em projetos reais e contribuir para o mundo da tecnologia. Continuo me aprimorando e aprendendo, buscando sempre estar atualizado com as tendências e melhores práticas do mercado.
 
-- 🔭 Hoje estudo front-end e back-end
-- 🌱 Estudando 3° Modulo Desenvolvimento de Sistemas
-- 👯 Estou procurando estágiar na área a partir do 2° Modulo do meu curso...
-- 🤔 Estou precisando de ajuda com programadores mais experientes na área...
 - 💬 Contate-me no Email: srmarcoserick1@gmail.com ou no meu WhatsApp: (55) 11 97701-3618
 
 <div align="center">
