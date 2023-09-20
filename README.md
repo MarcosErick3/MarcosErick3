@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0m0mf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcos+Medeiros;I'm+19+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -42,4 +42,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0m0m&height=120&section=footer"/>
