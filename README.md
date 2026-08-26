@@ -1,71 +1,129 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=32&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Marcos+Medeiros;Software+Development+Graduate;Front-end+Developer+in+progress;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+  <h1>Olá, eu sou Marcos Medeiros 👋</h1>
+  <h3>Desenvolvedor de Software | Web Development | PHP | JavaScript | React</h3>
 
-## 👨‍💻 About me
-I'm a **Software Development graduate from Brazil**, focused on **Front-end development**.  
-I enjoy building clean, responsive interfaces and turning ideas into real solutions.
-
-Currently improving my skills with **React, JavaScript and Node.js**, and looking for my **first opportunity in tech** to grow professionally and contribute to impactful projects.
-
----
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcosErick3&bg_color=0d1117&color=ffffff&line=ff91a4&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcosErick3&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=MarcosErick3&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosErick3&layout=compact&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" />
+  <p>
+    <a href="https://www.linkedin.com/in/marcos-eric-medeiros/">LinkedIn</a> •
+    <a href="mailto:srmarcoserick1@gmail.com">E-mail</a>
+  </p>
 </div>
 
----
+## 👨‍💻 Sobre mim
 
-## 🛠️ Main Skills
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+Sou estudante de **Engenharia de Software**, formado em **Análise e Desenvolvimento de Sistemas** e Técnico em **Desenvolvimento de Sistemas**.
+
+Tenho experiência com **desenvolvimento web, análise de dados e Power BI**, além de vivência com desenvolvimento de aplicações utilizando PHP, Laravel, JavaScript, React, Node.js e MySQL.
+
+Também tenho experiência profissional em ambiente corporativo, atuando com organização de documentos, análise de dados, dashboards, relatórios gerenciais e processos administrativos. Trabalho com práticas ágeis e Git/GitHub.
+
+Atualmente busco oportunidades como **Desenvolvedor PHP, Back-end, Full Stack ou Analista de Sistemas Júnior**.
+
+## 🛠️ Competências técnicas
+
+### 💻 Linguagens e tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=purple)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql)
 
----
+### ⚙️ Frameworks e bibliotecas
 
-## 📚 Currently Studying
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery)
 
----
+### 🗄️ Banco de dados e ferramentas
 
-## 🚀 Featured Projects
-> Em breve — projetos em React, JavaScript e APIs REST.  
-*(em constante evolução)*
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
----
+### 📊 Dados e metodologias
 
-## 🌐 Connect with me
-<div align="center"> 
-<a href="https://instagram.com/MarcosErick274" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="mailto:srmarcoserick1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/marcos-eric-medeiros/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
+- Power BI
+- Análise de dados
+- Relatórios gerenciais
+- Scrum e práticas ágeis
+
+## 🚀 Projetos em destaque
+
+### 🌐 Conecta: Um Portal Para Incentivar o Voluntariado
+
+Projeto desenvolvido como **TCC do curso de Desenvolvimento de Sistemas**, com o objetivo de conectar organizações e voluntários, facilitando o gerenciamento de atividades voluntárias e incentivando a participação em ações sociais.
+
+**Tecnologias:** PHP • MySQL • JavaScript • HTML • CSS
+
+### 📦 WMS - Warehouse Management System
+
+Sistema de gerenciamento de estoque desenvolvido para controle de mercadorias, contemplando módulos de **recepção, armazenamento, movimentação e gestão de inventário**.
+
+**Tecnologias:** PHP • MySQL • JavaScript • HTML • CSS
+
+## 🎓 Formação
+
+- **Engenharia de Software** — Universidade de Mogi das Cruzes | 2026–2028
+- **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul | 2023–2025
+- **Desenvolvimento de Sistemas** — ETEC Guaianases | 2022–2023
+- **Desenvolvimento Web** — Unibes | 2021
+
+## 📚 Cursos relevantes
+
+- Arquitetura CSS: descomplicando os problemas — Alura
+- Bootstrap 5: crie uma landing page responsiva — Alura
+- HTML e CSS: praticando HTML/CSS — Alura
+- React — Alura
+- Aprenda a programar em PHP com Orientação a Objetos — Alura
+- PHP: criando sua aplicação — Alura
+
+## 💼 Experiência profissional
+
+### SONDA — Jovem Aprendiz
+**Jul/2025 – Atual**
+
+- Desenvolvimento de dashboards em Power BI para apoio à tomada de decisão.
+- Gerenciamento de documentos digitais e análise de dados em planilhas.
+- Elaboração de relatórios gerenciais.
+- Apoio a processos administrativos.
+- Atuação em ambiente remoto com foco em produtividade, comunicação e organização.
+
+### CTS Vigilância e Portaria — Jovem Aprendiz
+**Dez/2023 – Fev/2025**
+
+- Organização de documentos.
+- Suporte a clientes internos e externos.
+- Utilização do Microsoft 365 em atividades administrativas.
+
+## 📊 GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosErick3&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosErick3&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
----
+## 🌐 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcos-eric-medeiros/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
+  </a>
+  <a href="mailto:srmarcoserick1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://instagram.com/MarcosErick274">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+</div>
 
 <div align="center">
   <br>
-  <b>Visitors Count</b>
-  <br><br>
-  <img src="https://profile-counter.glitch.me/MarcosErick3/count.svg" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
