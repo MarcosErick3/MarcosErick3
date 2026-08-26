@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
 
   <h1>Olá, eu sou Marcos Medeiros 👋</h1>
   <h3>Desenvolvedor de Software | Web Development | PHP | JavaScript | React</h3>
@@ -125,5 +125,5 @@ Sistema de gerenciamento de estoque desenvolvido para controle de mercadorias, c
 
 <div align="center">
   <br>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=footer"/>
 </div>
