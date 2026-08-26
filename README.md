@@ -105,8 +105,9 @@ Sistema de gerenciamento de estoque desenvolvido para controle de mercadorias, c
 ## 📊 GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosErick3&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosErick3&layout=compact&hide_border=true&theme=github_dark" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosErick3&theme=github_dark" />
+
 </div>
 
 ## 🌐 Contato
