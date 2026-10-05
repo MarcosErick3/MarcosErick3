@@ -84,24 +84,6 @@ Sistema de gerenciamento de estoque desenvolvido para controle de mercadorias, c
 - Aprenda a programar em PHP com Orientação a Objetos — Alura
 - PHP: criando sua aplicação — Alura
 
-## 💼 Experiência profissional
-
-### SONDA — Jovem Aprendiz
-**Jul/2025 – Atual**
-
-- Desenvolvimento de dashboards em Power BI para apoio à tomada de decisão.
-- Gerenciamento de documentos digitais e análise de dados em planilhas.
-- Elaboração de relatórios gerenciais.
-- Apoio a processos administrativos.
-- Atuação em ambiente remoto com foco em produtividade, comunicação e organização.
-
-### CTS Vigilância e Portaria — Jovem Aprendiz
-**Dez/2023 – Fev/2025**
-
-- Organização de documentos.
-- Suporte a clientes internos e externos.
-- Utilização do Microsoft 365 em atividades administrativas.
-
 ## 📊 GitHub
 
 <div align="center">
